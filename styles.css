@@ -3,13 +3,18 @@ div{
 	height: 200px;
 	width: 200px;
 	background-color: lightblue;
-	border: 2px solid black;
-	display: flex;
-	align-items: center;
-	justify-content:center; 
+	border: 2px solid black; 
 	position: fixed;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	color: purple;
+}
+p{
+	
+	margin: 0px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
 }
